@@ -1,0 +1,29 @@
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+main {
+  flex: 1 0 auto;
+}
+
+.hero-section {
+  background-image: url("images/kunal-shinde--f0YLss50Bs-unsplash.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 0.8;
+  height: 500px;
+}
+
+.hero-heading {
+  color: #fff;
+}
+
+.collapsible-header {
+  background-color: rgba(239, 247, 241, 0.671);
+}
+
+.collapsible-body {
+  background-color: #fff;
+}
