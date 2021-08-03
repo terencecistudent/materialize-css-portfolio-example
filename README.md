@@ -30,9 +30,16 @@ I have created an example portfolio website to showcase my skills of Materialize
    - Measurement Of Success: Check manual tests.
 
 4. As a user, I would like to fill in the contact form with the correct validation.
+
    - End User Goal: User is able to fill in form with correct validation.
    - End Business Goal: Form element to work as expected.
    - Acceptance Criteria: Form element to work as expected.
+   - Measurement Of Success: Check manual tests.
+
+5. As a user, I would like to click on a link when I hover over the Floating Action Button placed at the bottom right of the page.
+   - End User Goal: User is able to click on a link when the button is hovered over.
+   - End Business Goal: Floating Action Button to work as expected.
+   - Acceptance Criteria: Floating Action Button works correctly.
    - Measurement Of Success: Check manual tests.
 
 ## Requirements
