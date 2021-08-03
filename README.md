@@ -62,11 +62,11 @@ You can download it from here: https://code.visualstudio.com/
 
 ### Manual Testing
 
-Manual tests can be found [here]()
+Manual tests can be found [here](https://github.com/terencecistudent/materialize-css-portfolio-example/blob/main/testing/Manual_Tests.pdf)
 
 ### Responsiveness on different devices
 
-Responsiveness tests can be found [here]()
+Responsiveness tests can be found [here](https://github.com/terencecistudent/materialize-css-portfolio-example/blob/main/testing/Responsiveness_on_different_devices.pdf)
 
 ### Running Responsive Designs on Google Chrome:
 
