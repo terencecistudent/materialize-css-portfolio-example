@@ -6,6 +6,12 @@ I have created an example portfolio website to showcase my skills of Materialize
 
 ## UX
 
+### Wireframes
+
+I have used Figma to create the wireframes for this website.
+
+They can be found [here](https://github.com/terencecistudent/materialize-css-portfolio-example/blob/main/wireframes/MaterializeCSS_Portfolio_Example.pdf).
+
 ### User Stories
 
 1. As a user, I would like to be able to click on the navigational links which will direct me to those sections.
