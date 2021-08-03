@@ -40,7 +40,7 @@ I have created an example portfolio website to showcase my skills of Materialize
    - End User Goal: User is able to click on a link when the button is hovered over.
    - End Business Goal: Floating Action Button to work as expected.
    - Acceptance Criteria: Floating Action Button works correctly.
-   - Measurement Of Success: Check manual tests.
+   - Measurement Of Success: Test on live demo.
 
 ## Requirements
 
